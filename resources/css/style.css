@@ -28,3 +28,10 @@ a {
 p {
     text-align: center;
 }
+#copyright {
+    text-align: right; 
+    padding-right: 20px;
+}
+.icon {
+    padding-top: 10px;
+}
