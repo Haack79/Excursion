@@ -1,11 +1,30 @@
-h1 {
+body {
+    background-color: black;
+}
+h1, h2, h3 {
     font-family: Verdana, sans-serif;
+    text-align: center;
+}
+h1 {
     font-weight: Normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
-.futureLink {
+h2 {
+    font-size:42px;
+    font-weight: 300; 
+    color:white;
+}
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+a {
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
